@@ -19,5 +19,5 @@ This versions was confirmed to work:
 - Only EN-US
 
 # 🖼 Screenshots
-![Screenshot](https://exemplo.com/screenshot.png)
+![Screenshot](https://github.com/HeitorGit358/WUPCRestore/blob/main/.icon/testing%20WUPCRestore-2026-08-18-18-57-21.png)
 ![Screenshot](.icon/Polished11 x64-2026-08-18-20-53-43.png)
