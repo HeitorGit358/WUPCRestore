@@ -19,5 +19,5 @@ This versions was confirmed to work:
 - Only EN-US
 
 # 🖼 Screenshots
-![Screenshot](.icon/Polished11 x64-2026-08-18-20-53-43.png)
+![Screenshot](https://exemplo.com/screenshot.png)
 ![Screenshot](.icon/Polished11 x64-2026-08-18-20-53-43.png)
