@@ -19,5 +19,5 @@ This versions was confirmed to work:
 - Only EN-US
 
 # 🖼 Screenshots
-![Screenshot](.icon/Win10CPL.png)
-![Screenshot](.icon/Win11CPL.png)
+![Screenshot](.icon/Polished11 x64-2026-08-18-20-53-43.png)
+![Screenshot](.icon/Polished11 x64-2026-08-18-20-53-43.png)
